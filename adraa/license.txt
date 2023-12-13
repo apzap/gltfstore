@@ -1,0 +1,11 @@
+Model Information:
+* title:	adraa
+* source:	https://sketchfab.com/3d-models/adraa-1360d8a752ba46779af9a0e1c3530baf
+* author:	abzap (https://sketchfab.com/abzap)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "adraa" (https://sketchfab.com/3d-models/adraa-1360d8a752ba46779af9a0e1c3530baf) by abzap (https://sketchfab.com/abzap) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
